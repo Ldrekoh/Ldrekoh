@@ -123,7 +123,7 @@ const logan = {
 
 📬 **Me contacter** :
 
-[![Email](https://img.shields.io/badge/Email-logan.herbomel@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:logan.herbomel@email.com)
+[![Email](https://img.shields.io/badge/Email-Herbomel.logan@proton.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Herbomel.logan@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/logan--herbomel-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/logan-herbomel/)
 
 ---
