@@ -76,17 +76,6 @@ const logan = {
 
 ---
 
-### 🚀 [Placeholder] — Projet #2
-> Description courte du projet · À venir
-
-**Stack :** Next.js · TypeScript · PostgreSQL · Vercel
-
----
-
-### 🚀 [Placeholder] — Projet #3
-> Description courte du projet · À venir
-
-**Stack :** NestJS · MongoDB · Docker
 
 ---
 
