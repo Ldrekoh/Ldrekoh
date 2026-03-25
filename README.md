@@ -75,7 +75,18 @@ const logan = {
 - Déploiement serveur + score Lighthouse optimisé + documentation technique
 
 ---
-
+### ⚡ SkillSwap — Plateforme d'échange de compétences
+> Connecte mentors et apprenants via un système de tokens sécurisé · Projet perso · 2025
+ 
+**Stack :** Next.js 15 · TypeScript · Drizzle ORM · Neon (PostgreSQL) · Better Auth · Tailwind CSS · shadcn/ui · Zod
+ 
+- Système d'**escrow de tokens** — libération uniquement après validation des deux parties
+- **Validation manuelle** mentor : acceptation explicite de chaque session
+- **Auto-release** : protection automatique du mentor si l'apprenant ne valide pas
+- UI adaptive · gestion des états auth · design cohérent tous écrans
+ 
+[![Repo](https://img.shields.io/badge/GitHub-UpSkill-e8ff00?style=flat-square&logo=github&logoColor=black)](https://github.com/Ldrekoh/UpSkill)
+ 
 
 ---
 
